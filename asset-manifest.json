@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/reacttaask1/static/css/main.0975ca62.css",
+    "main.js": "/reacttaask1/static/js/main.fd5e7653.js",
+    "static/js/787.34933ac3.chunk.js": "/reacttaask1/static/js/787.34933ac3.chunk.js",
+    "static/media/video.mp4": "/reacttaask1/static/media/video.6c5770d577ac819c21d1.mp4",
+    "static/media/log1.jpg": "/reacttaask1/static/media/log1.978725f2485f29abd25e.jpg",
+    "static/media/log2.jpg": "/reacttaask1/static/media/log2.11b3081bc48930450ef1.jpg",
+    "static/media/ban5.jpg": "/reacttaask1/static/media/ban5.62179d0698ac4401ff33.jpg",
+    "static/media/ban4.jpg": "/reacttaask1/static/media/ban4.ccea9d6c876c2c4b4ebc.jpg",
+    "static/media/li7.jpg": "/reacttaask1/static/media/li7.b30e14436563471920d7.jpg",
+    "static/media/li8.jpg": "/reacttaask1/static/media/li8.df8889dde82f2f65eff6.jpg",
+    "static/media/ch4.jpg": "/reacttaask1/static/media/ch4.af6b6c42d35d0e6b50d6.jpg",
+    "static/media/li4.jpg": "/reacttaask1/static/media/li4.5871b2954e41c692dbba.jpg",
+    "static/media/li1.jpg": "/reacttaask1/static/media/li1.fc5fefaef18c1d3e1433.jpg",
+    "static/media/li6.jpg": "/reacttaask1/static/media/li6.17a3ae8d17da0ae153f9.jpg",
+    "static/media/li5.jpg": "/reacttaask1/static/media/li5.fe1b613916002a8e6bd6.jpg",
+    "static/media/ch2.jpg": "/reacttaask1/static/media/ch2.4f494a8ebd4cc32967f2.jpg",
+    "static/media/li2.jpg": "/reacttaask1/static/media/li2.835a2c311a694508a64b.jpg",
+    "static/media/ch7.jpg": "/reacttaask1/static/media/ch7.6ccac60cc2335e4b3c22.jpg",
+    "static/media/ch8.jpg": "/reacttaask1/static/media/ch8.f70ae1de432008a0da52.jpg",
+    "static/media/profile.png": "/reacttaask1/static/media/profile.6cba3e0e2ad05cd75230.png",
+    "static/media/li3.jpg": "/reacttaask1/static/media/li3.ef648e2d9e9dfb08aeb3.jpg",
+    "static/media/ch6.jpg": "/reacttaask1/static/media/ch6.c1ca5c550ba51b5b5b69.jpg",
+    "static/media/ch3.jpg": "/reacttaask1/static/media/ch3.bc0f7fbd7d725c69d81a.jpg",
+    "static/media/ch1.jpg": "/reacttaask1/static/media/ch1.df5e893a1a13c50fc770.jpg",
+    "static/media/ch5.jpg": "/reacttaask1/static/media/ch5.57fd6117fd86da82b43d.jpg",
+    "index.html": "/reacttaask1/index.html",
+    "main.0975ca62.css.map": "/reacttaask1/static/css/main.0975ca62.css.map",
+    "main.fd5e7653.js.map": "/reacttaask1/static/js/main.fd5e7653.js.map",
+    "787.34933ac3.chunk.js.map": "/reacttaask1/static/js/787.34933ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0975ca62.css",
+    "static/js/main.fd5e7653.js"
+  ]
+}
